@@ -1,3 +1,9 @@
+# Wiki Hub
+
+Projeto feito em React utilizando o pacote Axios para fazer a request e aguardar a promise do API do GitHub. No momento a utilidade é mínima, o objetivo foi somente praticar e aprender a consumir APIs.
+
+<img src="https://user-images.githubusercontent.com/102473053/206704730-a14c4cad-bb0d-48b8-8f48-1bc9e374a40d.png" width="300">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
